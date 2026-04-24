@@ -1,0 +1,6 @@
+{
+  "name": "vocab-tester",
+  "version": "1.0.0",
+  "description": "使用 Paul Nation 词频带理论和 LLM 语义判断，通过自适应游戏化交互测试用户的英语词汇量。",
+  "author": "wanghanlele12345"
+}
