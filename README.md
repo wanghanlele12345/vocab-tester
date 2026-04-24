@@ -12,19 +12,13 @@
 
 ## 安装方法
 
-### 方式 1: NPM 安装
-如果你想作为 npm 包下载，可以通过 npm 安装（包含双端所需的所有配置文件）：
-```bash
-npm install vocab-tester
-```
-
-### 方式 2: Gemini CLI 直接安装
+### 方式 1: Gemini CLI 直接安装
 使用 Gemini CLI，直接通过 GitHub 链接或本地路径安装：
 ```bash
 gemini extensions install https://github.com/wanghanlele12345/vocab-tester
 ```
 
-### 方式 3: Claude Code 安装
+### 方式 2: Claude Code 安装
 使用 Claude Code，直接通过本地路径安装（克隆仓库后）：
 ```bash
 git clone https://github.com/wanghanlele12345/vocab-tester.git
